@@ -29,5 +29,6 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            ebt35/ebt35:latest
-            ebt35/ebt35:1.5
+            ebt35/automation_devops_app:latest
+            ebt35/automation_devops_app:latest:1.5
+
