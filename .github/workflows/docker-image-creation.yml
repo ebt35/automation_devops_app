@@ -28,8 +28,8 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            ebt35/ebt35:latest 
-            ebt35/ebt35:latest:1.5
+            ebt35/ebt35:1.5 
+            ebt35/ebt35:latest
          
 
 
